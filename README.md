@@ -1,3 +1,3 @@
 # AR-Furniture
-Allows you place 3D model furnitures in yoyr romm in interactive AR Mode 
+Allows you to place 3D model furnitures in your room in an interactive AR Mode 
 you will need three.js-r132 library and WEBXR API Emulator extension for your pc  in order to run
